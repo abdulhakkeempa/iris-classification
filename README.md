@@ -29,3 +29,7 @@ Experimenting with various algorithms on the famous Iris Dataset ✨
 * target ( Species )
   ![image](https://github.com/abdulhakkeempa/iris-classification/assets/92361680/972a8c40-3a90-4cae-889d-154126fe9f87)
 
+## Models
+| Algorithm  | Train Score | Test Score |
+| ------------- | ------------- | ------------- |
+| Logistic Regression  | 0.97  | 0.96 |

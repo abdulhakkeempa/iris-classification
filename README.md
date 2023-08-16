@@ -11,6 +11,10 @@ Experimenting with various algorithms on the famous Iris Dataset ✨
 
 ## EDA through Visualisations
 
+### Distribution of the data (After applying Principal Component Analysis)
+![image](https://github.com/abdulhakkeempa/iris-classification/assets/92361680/80c1cf6d-67cf-4458-b221-f5927bc12816)
+
+
 ### Correlation Matrix
 ![image](https://github.com/abdulhakkeempa/iris-classification/assets/92361680/e9f8f13e-dfc0-4f20-a51a-aba8e03d445a)
 
@@ -33,3 +37,4 @@ Experimenting with various algorithms on the famous Iris Dataset ✨
 | Algorithm  | Train Score | Test Score |
 | ------------- | ------------- | ------------- |
 | Logistic Regression  | 0.97  | 0.96 |
+| Support Vector Machine (linear)  | 0.983  | 1.00 |

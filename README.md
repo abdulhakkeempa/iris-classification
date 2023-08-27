@@ -39,3 +39,4 @@ Experimenting with various algorithms on the famous Iris Dataset ✨
 | Logistic Regression  | 0.97  | 0.96 |
 | Support Vector Machine (linear)  | 0.983  | 1.00 |
 | K-Nearest Neighbours (k=5)  | 0.966  | 1.00 |
+| Decision Tree  | 1.00  | 0.966 |

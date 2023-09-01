@@ -41,3 +41,4 @@ Experimenting with various algorithms on the famous Iris Dataset ✨
 | K-Nearest Neighbours (k=5)  | 0.966  | 1.00 |
 | Decision Tree  | 1.00  | 0.966 |
 | Random Forest  | 1.00  | 0.966 |
+| Gaussian Naive Bayes  | 0.958  | 0.966 |

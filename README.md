@@ -42,3 +42,4 @@ Experimenting with various algorithms on the famous Iris Dataset ✨
 | Decision Tree  | 1.00  | 0.966 |
 | Random Forest  | 1.00  | 0.966 |
 | Gaussian Naive Bayes  | 0.958  | 0.966 |
+| AdaBoost  | 0.958  | 0.9 |
